@@ -11,9 +11,14 @@ Dependencies: Data mapping and classification: The project team may need to work
 Risks: Technical limitations: If the redesigned privacy settings interface is not technically feasible or compatible with other system components, it may not be able to meet the desired objectives or deliverables, which could result in project delays or cost overruns.
 
 
-Estimated Effort: Conduct user research and analysis to identify user needs and preferences: 2-4 weeks
+Estimated Effort: 
+
+Conduct user research and analysis to identify user needs and preferences: 2-4 weeks
+
 Develop design concepts and prototypes based on user research: 4-6 weeks
+
 Test and refine design concepts with users and stakeholders: 2-4 weeks
+
 Develop detailed design specifications and documentation: 2-4 weeks
 
 Business Value: Increase user trust and satisfaction: A clear and user-friendly privacy settings interface can help build trust and confidence among users, leading to increased satisfaction and loyalty.
