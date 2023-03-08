@@ -20,7 +20,11 @@ Risks: Legal and regulatory compliance: There is a risk that the new privacy set
 
 Dependencies: Technical infrastructure: The redesign project will depend on a robust and scalable technical infrastructure to support the new privacy settings interface. The project team will need to assess the current technical infrastructure, including hardware, software, and data systems, and identify any upgrades or modifications needed to support the new privacy settings interface.
 
-Team: Project Manager: responsible for overall project planning, execution, monitoring, and control, including project scope, schedule, budget, quality, risk, and stakeholder management. User Experience (UX) Designer: responsible for conducting user research, creating wireframes and prototypes, designing the user interface, and ensuring the new privacy settings interface meets user needs and expectations. Technical Architect: responsible for assessing the current technical infrastructure, designing the technical architecture for the new privacy settings interface, and ensuring the new interface is scalable, robust, and secure. Developer: responsible for implementing the new privacy settings interface, coding and testing software components, and integrating the new interface with existing systems and databases.
+Team: 
+Project Manager: responsible for overall project planning, execution, monitoring, and control, including project scope, schedule, budget, quality, risk, and stakeholder management. 
+User Experience (UX) Designer: responsible for conducting user research, creating wireframes and prototypes, designing the user interface, and ensuring the new privacy settings interface meets user needs and expectations.
+Technical Architect: responsible for assessing the current technical infrastructure, designing the technical architecture for the new privacy settings interface, and ensuring the new interface is scalable, robust, and secure. 
+Developer: responsible for implementing the new privacy settings interface, coding and testing software components, and integrating the new interface with existing systems and databases.
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
