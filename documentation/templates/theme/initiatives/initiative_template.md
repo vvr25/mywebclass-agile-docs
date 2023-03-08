@@ -22,8 +22,11 @@ Dependencies: Technical infrastructure: The redesign project will depend on a ro
 
 Team: 
 Project Manager: responsible for overall project planning, execution, monitoring, and control, including project scope, schedule, budget, quality, risk, and stakeholder management. 
+
 User Experience (UX) Designer: responsible for conducting user research, creating wireframes and prototypes, designing the user interface, and ensuring the new privacy settings interface meets user needs and expectations.
+
 Technical Architect: responsible for assessing the current technical infrastructure, designing the technical architecture for the new privacy settings interface, and ensuring the new interface is scalable, robust, and secure. 
+
 Developer: responsible for implementing the new privacy settings interface, coding and testing software components, and integrating the new interface with existing systems and databases.
 
 # List epics related to this theme
